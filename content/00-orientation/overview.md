@@ -1,0 +1,34 @@
+---
+title: "A typical week at Spiced"
+weight: 10
+---
+
+- On **Monday**, the teachers introduce you to a new project
+- You find detailed **goals** for that project in the course material
+- Most **lectures** during the week give you something you can try in the project.
+- Work on the tasks on your own or **collaborate** with other students
+- **Approach a teacher** if you get stuck
+- Show your code someone else at least once a day
+- Give a **Lightning Talk** in the project review on **Friday** afternoon
+
+{{% notice info "What do I need to graduate?" %}}
+
+- attend lessons
+- submit 80% of the weekly projects
+- present 80% of the weekly projects in front of your cohort
+- present your own project at the graduation
+- adhere to the Code of Conduct
+  {{% /notice %}}
+
+{{% notice info "What is a lightning talk?" %}}
+
+Lightning Talks are a common format on conferences. Give a short presentation Present outcomes of your project within 5 minutes. **Hint: Pick one idea and present it clearly.**
+
+{{% /notice %}}
+
+![lightning talk ideas](/images/lightning_talks.png)
+
+<br>
+
+{{% notice copyright "Spiced Academy" %}}
+{{% /notice %}}

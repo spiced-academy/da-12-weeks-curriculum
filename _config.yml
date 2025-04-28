@@ -1,0 +1,11 @@
+title: Data Analytics Course
+description: A full data analytics learning path, hosted with GitHub Pages.
+theme: jekyll-theme-minimal
+
+# Optional: (but good to have)
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Keep the folders clean
+permalink: pretty
