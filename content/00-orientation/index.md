@@ -11,7 +11,7 @@ title: Orientation
 
 
 
-### <i class="fas fa-map-signs fa-fw"></i> Orientation
+###  Orientation
 
 # Overview of the Curriculum
 
