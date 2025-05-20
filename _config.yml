@@ -13,3 +13,10 @@ permalink: pretty
 # New part below 👇
 include:
   - content
+
+
+# Optional: Allow future extension with collections
+collections:
+  lessons:
+    output: true
+    permalink: /:path/
