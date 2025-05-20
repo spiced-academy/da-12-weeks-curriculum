@@ -1,9 +1,14 @@
+
 ---
-chapter: true
-pre: '<i class="fas fa-map-signs fa-fw"></i> '
+layout: default
 title: Orientation
-weight: 1
 ---
+
+
+
+
+
+
 
 
 ### <i class="fas fa-map-signs fa-fw"></i> Orientation
