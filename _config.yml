@@ -10,10 +10,6 @@ kramdown:
 # Keep the folders clean
 permalink: pretty
 
-# New part below 👇
-include:
-  - content
-
 
 # Optional: Allow future extension with collections
 collections:
