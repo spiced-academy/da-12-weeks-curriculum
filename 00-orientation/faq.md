@@ -4,13 +4,13 @@ weight: 20
 ---
 
 
-{{% expand "Do I have to complete every task in the course material?" %}}
+## Do I have to complete every task in the course material?
 
 You have to complete at least 80% of challenges related to each of the weekly projects (the ones in the blue boxes). If you want to do sth that is not exactly the solution of the challenges but similar it's okay as long it's an equivalent of suggested work. In such a case talk to us to agree on your learning path.
 
 Besides the project challenges, you will find extra tasks and additional links in the course materials. Treat it as brain food for further learning. 
 
-{{% /expand %}}
+
 
 
 {{% expand "Why do we have to present??" %}}
