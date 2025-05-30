@@ -1,11 +1,25 @@
 ---
-chapter: true
-pre: '<i class="fab fa-python fa-fw"></i> <b>1. </b>'
 title: Introduction to Python
 weight: 10
 ---
 
-### <i class="fab fa-python fa-fw"></i> Chapter 1 - Introduction to Python
+---
+# Python
+---
+Welcome to the Python module! Explore the lessons below:
+
+- [Lesson 1: Setting Up](setup.md)
+- [Lesson 2: GitHub](github.md)
+- [Lesson 3: Data Types](data-types.md)
+- [Lesson 4: Strings](strings.md)
+- [Lesson 5: Lists](lists.md)
+- [Lesson 6: Dictionaries](dictionaries.md)
+- [Lesson 7: For-loops](for-loops.md)
+- [Lesson 8: If-statements](if-statements.md)
+- [Lesson 9: Conditional-loops](conditional-loops.md)
+- [Lesson 10: Debugging](debugging.md)
+- [Lesson 11: Recap](recap.md)
+
 
 # Project: Text-Adventure
 
