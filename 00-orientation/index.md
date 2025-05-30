@@ -1,6 +1,6 @@
 
 ---
-title: Orientation
+# Orientation
 ---
 
 
@@ -9,12 +9,6 @@ Welcome to the Orientation module! Explore the lessons below:
 - [Lesson 1: Frequently asked questions](faq.md)
 - [Lesson 2: Tools Overview](overview.md)
 - [Lesson 3: Data Analytics](data-analytics.md)
-
-
-
-
-
-###  Orientation
 
 # Overview of the Curriculum
 
