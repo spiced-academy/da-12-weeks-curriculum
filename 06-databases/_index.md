@@ -35,6 +35,6 @@ This week you will set up and connect to a database full of movies in the cloud.
 
 
 
-Copyright "Samuel McGuire, Malte Bonart" %}}
+Copyright "Samuel McGuire, Malte Bonart"
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). It is a derivative of [academis.eu/posts/spiele_DE/textadventure.md](https://www.academis.eu/posts/games_EN/textadventure.md) by Dr. Kristian Rother, used under CC-BY-SA 4.0. 
