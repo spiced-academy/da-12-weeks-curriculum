@@ -1,5 +1,5 @@
 ---
-title: Welcome
+# Welcome
 ---
 
 # Welcome to the Data Analytics Learning Platform 🚀
