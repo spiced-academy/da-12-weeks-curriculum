@@ -4,27 +4,14 @@ weight: 30
 ---
 
 
+## Warmup: What is Data Analytics?
 
-{{% notice warmup "What is Data Analytics?" %}}
-
-- Research a definition or descriptions of what Data Analytics is about!
-- What is the difference to *Data Analysis*, *Data Science* and *Data Engineering*?
-
-{{% /notice %}}
-
-
-## Concepts
-
-![data_analytics](/images/data_analytics_subway.jpg)
-{{< credits >}}
-Hilal Işık, Samuel McGuire
-{{< /credits >}}
+- Research a working definition and put together a short description of what Data Analytics is about!
+- What is the difference between *Data Analysis*, *Data Science* and *Data Engineering*?
 
 
 
-## Challenge
-
-{{% notice challenge "Data Analytics Case Study" %}}
+## Challenge: A Data Analytics Case Study
 
 - Go to https://cloud.google.com/customers#/products=Data_Analytics
 - Scroll down to *More customer stories*
@@ -35,14 +22,6 @@ Hilal Işık, Samuel McGuire
     - What was the outcome?
     - What was the role of Data Analytics in the project?
 
-
-
-{{% /notice %}}
-
-<br>
-
-{{% notice copyright "Malte Bonart, Spiced Academy" %}}
-{{% /notice %}}
 
 
 
