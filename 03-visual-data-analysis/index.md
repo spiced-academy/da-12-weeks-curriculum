@@ -1,18 +1,29 @@
 ---
-chapter: true
-pre: '<i class="fas fa-table fa-fw"></i> <b>3. </b>'
 title: Visual Data Analysis
-weight: 30
+weight: 20
 ---
 
-### <i class="fas fa-table fa-fw"></i> Chapter 3 - Visual Data Analysis
+---
+# Visual Data Analysis
+---
+
+Welcome to our module on Visual Data Analysis! Explore the lessons below:
+
+- [Lesson 1: Data Cleansing](data-cleansing.md)
+- [Lesson 2: Plotting with Seaborn](plotting-with-seaborn.md)
+- [Lesson 3: Visualization Best Practices](visualization-best-practices.md)
+- [Lesson 4: Descriptive Statistics](descriptive-stats.md)
+- [Lesson 5: Aggregations in Pandas](pandas-aggregation.md)
+- [Lesson 6: Merging Dataframes](merging-dataframes.md)
+- [Lesson 7: Exploratory Data Analysis](eda.md)
+- [Lesson 8: Recap](recap.md)
+
 
 # Project: Gapminder
 
 ![](/images/countries_health_wealth_2016_v8.png)
 
-
-{{% notice challenge "Project Description" %}}
+### Project Description
 
 [Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling) was a Swedish Professor of International Health and a great public speaker.
 He founded the Gapminder Foundation which promotes the use of data and 
