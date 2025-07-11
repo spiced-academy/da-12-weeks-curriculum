@@ -1,26 +1,35 @@
 ---
 chapter: true
-pre: '<i class="fas fa-chart-line fa-fw"></i> <b>5. </b>'
 title: Explanatory Analysis
 weight: 50
 ---
+---
+# Explanatory Analysis
+---
+Welcome to our module on Explanatory Analysis! Explore the lessons below:
 
-### <i class="fas fa-chart-line"></i> Chapter 5 - Explanatory Analysis
+- [Lesson 1: Working with Timestamps in Pandas](pandas-datetime.md)
+- [Lesson 2: Key Performance Indicators](kpis.md)
+- [Lesson 3: Normal Distribution](normal-distribution.md)
+- [Lesson 4: Probability Distributions](probability-distributions.md)
+- [Lesson 5: Confidence Intervals](confidence-intervals.md)
+- [Lesson 6: Data Ethics](data-ethics.md)
+- [Lesson 7: A/B Testing (Part I)](a-b-testing.md)
+- [Lesson 8: A/B Testing (Part II)](a-b-testing-2.md)
+- [Lesson 9: Pandas Recap(Complete Learning Path](recap-pandas.md)
+
 
 # Project: Muesli
 
 ![project muesli](/images/muesli.png)
 
-{{< credits >}}
 Illustration by <a href="https://unsplash.com/@markusspiske">Markus Spiske</a> on <a href="https://unsplash.com/photos/mSFPGBX7gUI">Unsplash</a>
-{{< /credits >}}
 
-{{% notice challenge "Project Description" %}}
+### Project Description
 
 A Muesli distribution company has approached you to help them understand their delivery process. They want to develop KPIs to help them keep track of the health of their business to improve the service they offer their customers.
 
 {{% attachments title="Related files" pattern="muesli" /%}}
-
 
 ##### 🎯 Goal: Develop KPIs and do exploratory data analysis to help the company understand their delivery process. 
 
@@ -41,19 +50,18 @@ A Muesli distribution company has approached you to help them understand their d
 - **Present Data to Stakeholders**
   - Gather plots and metrics to make a story
 
-{{% /notice %}}
 
-{{% expand "Data Analytics Workflow" %}}
+
+"Data Analytics Workflow"
 
 ![](images/da_workflow.png)
 
-{{% /expand %}}
+
 
 
 <br>
 
-{{% notice copyright "Agnieszka Kaczmarczyk, Milad Behrooz" %}}
+copyright "Agnieszka Kaczmarczyk, Milad Behrooz
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-{{% /notice %}}
