@@ -16,7 +16,7 @@ Welcome to our module on Explanatory Analysis! Explore the lessons below:
 - [Lesson 6: Data Ethics](data-ethics.md)
 - [Lesson 7: A/B Testing (Part I)](a-b-testing.md)
 - [Lesson 8: A/B Testing (Part II)](a-b-testing-2.md)
-- [Lesson 9: Pandas Recap(Complete Learning Path](recap-pandas.md)
+- [Lesson 9: Pandas Recap(Complete Learning Path)](recap-pandas.md)
 
 
 # Project: Muesli
