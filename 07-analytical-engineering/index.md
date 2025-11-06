@@ -1,13 +1,21 @@
 ---
-chapter: true
-pre: '<i class="fas fa-chart-pie fa-fw"></i> <b>7. </b>'
-title: Analytical Engineering
-weight: 70
+# Chapter 7 - Analytical Engineering
 ---
+Welcome to our module on Analytical Engineering! Explore the lessons below:
 
-### <i class="fas fa-chart-pie fa-fw"></i> Chapter 7 - Analytical Engineering
+- [Lesson 1: Intro Analytical Engineering](intro_analytical_eng.md)
+- [Lesson 2: SQL-Python](sql-python.md)
+- [Lesson 3: APIs](apis.md)
+- [Lesson 4: dbt Intro and Setup](dbt-set-up.md)
+- [Lesson 5: dbt Stages](dbt-stages.md) 
+- [Lesson 6: dbt Marts](data-mart.md)
+- [Lesson 7: CTE](cte.md) 
+- [Lesson 8: Logging](logging.md)
+- [Lesson 9: Advanced SQL Administration](advanced-sql-administration.md)
+- [Lesson 10: Advanced SQL Index](advanced-sql-index.md)
+- [Lesson 11: Recap](recap.md)
 
-# Project: Climate Data
+## Project: Climate Data
 
 ![](/images/paper_boats.jpg)
 {{< credits >}}
@@ -47,16 +55,9 @@ The next days, you will work with a comprehensive real world API from https://ww
 ##### Note
 Lectures Logging, Managing PostgreSQL users and roles, Query optimization and indexing would go beyond the scope of this week. Consider these topics as the next steps to look into.
 
-{{% /notice %}}
-
-{{% expand "Data Analytics Workflow" %}}
+### Data Analytics Workflow
 
 ![](images/da_workflow.png)
-
-{{% /expand %}}
-
-
-<br>
 
 {{% notice copyright "Samuel McGuire, Malte Bonart, Agnieszka Kaczmarczyk" %}}
 
