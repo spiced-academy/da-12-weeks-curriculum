@@ -4,6 +4,19 @@
 
 ### <i class="fas fa-database fa-fw"></i> Chapter 5 - Databases
 
+Welcome to our module on Databases! Explore the lessons below:
+
+- [Lesson 1: Cloud Databases](cloud-databases.md)
+- [Lesson 2: Data Import & Export](data-import-export.md)
+- [Lesson 3: Create, Read, Update, and Delete (CRUD)](CRUD.md)
+- [Lesson 4: Data Modeling](data-modeling.md)
+- [Lesson 5: Database Normalization](db-normalization.md)
+- [Lesson 6: SQL Group by](sql-groupby.md)
+- [Lesson 7: SQL Joins](sql-joins.md)
+- [Lesson 8: Views, Tables & Triggers](views-tables-triggers.md)
+- [Lesson 9: SQL Advanced](sql-advanced.md)
+
+
 # Project: Movie Database
 
 
