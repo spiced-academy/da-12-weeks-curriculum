@@ -7,6 +7,18 @@ weight: 80
 
 ### <i class="fas fa-chart-pie fa-fw"></i> Chapter 8 - Dashboarding
 
+Welcome to our module on Dashboarding! Explore the lessons below:
+
+- [Lesson 1: Intro Dashboards](intro-dashboards.md)
+- [Lesson 2: Intro Dash Framework](intro_dash_framework.md)
+- [Lesson 3: Dash Callbacks](dash_callbacks.md)
+- [Lesson 4: Dash Rendering](dash_rendering.md)
+- [Lesson 5: Window Functions](window-functions.md)
+- [Lesson 6: Dashboards using Plotly](dashboards_using_plotly.md)
+- [Lesson 7: Plotly Intro](plotly-intro.md)
+- [Lesson 8: Plotly Maps](plotly-maps.md)
+
+
 # Project: Dash-Web App
 
 {{< plotly html="usa_map.html" height="500" >}}
