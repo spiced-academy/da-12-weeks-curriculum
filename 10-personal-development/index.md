@@ -1,14 +1,13 @@
 ---
-chapter: true
-pre: '<i class="fas fa-users fa-fw"></i> <b>10. </b>'
-title: Career and Development
-weight: 100
+# Career and Development
 ---
 
-### <i class="fas fa-users fa-fw"></i> Chapter 8
+Welcome to our module on Career and Personal Development! Explore the lessons below:
 
+- [Lesson 1: Pre-Work Career Encounters](pre-work-career-encounters.md)
+- [Lesson 2: Career Week Encounters](career-week-encounters.md)
+- [Lesson 3: Coding Challenges](coding-challenges.md)
 
-# Career and Development
 
 ![career dev week](/images/career_now-2022.jpg)
 
