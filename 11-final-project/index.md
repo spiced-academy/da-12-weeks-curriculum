@@ -1,13 +1,15 @@
 ---
-chapter: true
-pre: '<i class="fas fa-user-graduate fa-fw"></i> <b>11. </b>'
-title: Final Project
-weight: 110
+# Final Project
 ---
 
-### <i class="fas fa-user-graduate fa-fw"></i> Chapter 9
+Welcome to our Final Project module! Explore the lessons below:
 
-# Final Project
+- [Lesson 1: Project Ideas](project-ideas.md)
+- [Lesson 2: Datasets](datasets.md)
+- [Lesson 3: Learning](learning.md)
+- [Lesson 4: Github](github.md)
+- [Lesson 5: Presenting](presenting.md)
+
 
 ![robot](/images/final_project.jpg)
 
