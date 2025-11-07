@@ -1,5 +1,5 @@
 ---
-# Chapter 7 - Analytical Engineering
+# Analytical Engineering
 ---
 Welcome to our module on Analytical Engineering! Explore the lessons below:
 
