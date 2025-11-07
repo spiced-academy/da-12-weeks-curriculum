@@ -1,11 +1,17 @@
 ---
-chapter: true
-pre: '<i class="fas fa-columns fa-fw"></i> <b>9. </b>'
-title: Tableau
-weight: 90
+# Tableau
 ---
+Welcome to our module on Tableau! Explore the lessons below:
 
-### <i class="fas fa-columns fa-fw"></i> Chapter 7 - Tableau
+- [Lesson 1: Storytelling](storytelling.md)
+- [Lesson 2: Tables](tables.md)
+- [Lesson 3: Visualization Types](visualization-types.md)
+- [Lesson 4: Calculated Fields](calculated-fields.md)
+- [Lesson 5: Multiple Data Sources](multiple_data_sources.md)
+- [Lesson 6: LOD](lod.md)
+- [Lesson 7: Sets](sets.md)
+- [Lesson 8: Dashboards, Stories](dashboards-stories.md)
+- [Lesson 9: Recap Tableau](recap-tableau.md)
 
 # Project: Dashboard
 
