@@ -1,11 +1,6 @@
 ---
-chapter: true
-pre: '<i class="fas fa-chart-pie fa-fw"></i> <b>8. </b>'
-title: Dashboarding
-weight: 80
+# Dashboarding
 ---
-
-### <i class="fas fa-chart-pie fa-fw"></i> Chapter 8 - Dashboarding
 
 Welcome to our module on Dashboarding! Explore the lessons below:
 
