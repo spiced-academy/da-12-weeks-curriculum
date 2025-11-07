@@ -2,8 +2,6 @@
 # Databases
 ---
 
-### <i class="fas fa-database fa-fw"></i> Chapter 5 - Databases
-
 Welcome to our module on Databases! Explore the lessons below:
 
 - [Lesson 1: Cloud Databases](cloud-databases.md)
